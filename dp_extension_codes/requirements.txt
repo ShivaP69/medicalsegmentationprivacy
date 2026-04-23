@@ -1,0 +1,18 @@
+torchinfo
+future==0.18.2
+imageio==2.9.0
+matplotlib==3.2.1
+pythoscikit-image==0.16.2
+scikit-learn==0.22.2.post1
+scipy==1.4.1
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+Pillow>=9.0.0
+tqdm>=4.65.0
+
+# Privacy & image processing
+opacus>=1.4.0
+kornia>=0.7.0
+

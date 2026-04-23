@@ -1,0 +1,12 @@
+# Ignore all .log files
+*.log
+*.git
+*.xml
+*.iml
+*.DukeData
+*.UMNData
+UMNData
+DukeData
+
+# Ignore all .env files
+*.env
